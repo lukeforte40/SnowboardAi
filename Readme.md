@@ -1,0 +1,2 @@
+**Snowboard Recommendation Model**
+This webapp is designed to filter through snowboards by conversing with the user and determining what kind of board would be best suited for them. Like Curated but with an ai model instead.
